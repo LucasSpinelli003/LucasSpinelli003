@@ -14,7 +14,7 @@
          
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=visualstudio,git,bash,linux,eclipse,gitlab,stackoverflow)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=visualstudio,git,bash,linux,eclipse,vscode)](https://skillicons.dev)
 
 - Back-End
 
