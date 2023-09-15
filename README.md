@@ -14,11 +14,11 @@
          
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=visualstudio,git,bash,linux,eclipse,vscode)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=visualstudio,git,bash,linux,docker,eclipse,vscode)](https://skillicons.dev)
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,nodejs,java,python,sqlite,vite,docker)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,nodejs,java,python,sqlite,vite)](https://skillicons.dev)
 
 - Front-End
 
