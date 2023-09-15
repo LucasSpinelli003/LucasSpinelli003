@@ -22,7 +22,7 @@
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,nodejs,react,java,python,sqlite,mysql,vite)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,java,python,sqlite,mysql,vite)](https://skillicons.dev)
 
 
 
