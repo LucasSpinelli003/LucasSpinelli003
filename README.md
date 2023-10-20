@@ -18,11 +18,11 @@
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,python,sqlite,mysql,mongodb,vite)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,ts,nodejs,java,python,sqlite,mysql,mongodb,vite)](https://skillicons.dev)
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,java,python,sqlite,mysql,vite)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,ts,nodejs,react,java,python,sqlite,mysql,vite)](https://skillicons.dev)
 
 
 
