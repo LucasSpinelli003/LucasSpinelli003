@@ -14,7 +14,7 @@
          
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=azure,docker,postman,git,githubactions,linux,eclipse,stackoverflow,vscode,visualstudio,aws)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=azure,docker,postman,git,githubactions,linux,eclipse,vscode,visualstudio,aws)](https://skillicons.dev)
 
 
 - Back-End
